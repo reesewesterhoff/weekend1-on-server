@@ -1,0 +1,49 @@
+body {
+    margin: 20px;
+    background-color: rgba(149, 207, 188, 0.534);
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px;
+    font-size: 14;
+}
+
+table {
+    width: 75%;
+    
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1, h3, input, button {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
+
+#addEmployeeButton {
+    margin: 15px;
+    position: absolute;
+    right: 10%;
+    font-size: 13px;
+}
+
+#totalMonthlyExpenses {
+    text-align: right;
+    margin: 30px;
+    padding-top: 40px;
+}
+
+.classh3 {
+    padding-top: 40px;
+}
+
+input {
+    border: 1px dotted gray;
+    margin: 10px;
+}
